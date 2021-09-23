@@ -1,0 +1,170 @@
+.banner_row {
+    border-radius: 20px;
+    position: relative;
+    top: 40px;
+    width: 31%;
+    left: 30px;
+}
+
+.banner_row2 {
+    border-radius: 20px;
+    position: relative;
+    top: 40px;
+    width: 31%;
+    left: 30px;
+}
+
+.banner_row1 {
+    border-radius: 20px;
+    position: relative;
+    top: 70px;
+    width: 95%;
+    left: 31.5px;
+}
+
+.banner {
+    position: relative;
+    top: 15px;
+}
+
+.banner1 {
+    position: relative;
+    bottom: 105px;
+    z-index: 1;
+}
+
+.banner1 > h1 {
+    font-size: 25px;
+    bottom: 40px;
+    position: relative;
+    bottom: 40px;
+}
+
+.image-banner {
+    display: flex;
+    gap: 15px;
+}
+
+.image-banner1 {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.home_row {
+    display: flex;
+    gap: 20px;
+}
+
+.home_row > a {
+    text-decoration: none;
+    color: rgb(95, 95, 95);
+    font-weight: 700;
+    font-size: 12px;
+    position: relative;
+    left: 15px;
+    top: 20px;
+    white-space: nowrap;
+}
+
+.rows_Img {
+    display: flex;
+    gap: 100px;
+}
+
+.row_Img {
+    width: 35px;
+    position: relative;
+    align-items: center;
+    left: 72px;
+    top: 20px;
+}
+
+.text1 {
+    margin-left: 42px;
+}
+
+.text2 {
+    margin-left: 20px;
+}
+
+.text3 {
+    margin-left: 22px;
+}
+
+.text4 {
+    margin-left: 34px;
+}
+
+.text5 {
+    margin-left: 56px;
+}
+
+.text6 {
+    margin-left: 36px;
+}
+
+.text7 {
+    margin-left: 42px;
+}
+
+.text8 {
+    margin-left: 60px;
+}
+
+.text9 {
+    margin-left: 58px;
+}
+
+.row1 {
+    width: 100%;
+    position: relative;
+    top: 40px;
+}
+
+.cardParcel {
+    margin-top: 100px;
+}
+
+.cardParcel > h1 {
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 120px;
+    z-index: 1;
+    color: rgb(255, 255, 255);
+}
+
+.Parcel {
+    position: relative;
+    top: 60px;
+}
+
+.Parcel > h1 {
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 140px;
+    z-index: 5;
+}
+
+.footer_row1 {
+    border-radius: 20px;
+    position: relative;
+    bottom: 180px;
+    width: 95%;
+}
+
+.footer_img {
+    border-radius: 20px;
+    position: relative;
+    bottom: 60px;
+    width: 95%;
+}
+
+.image-footer {
+    border-radius: 20px;
+    position: relative;
+    top: 10px;
+    left: 31.5px;
+}

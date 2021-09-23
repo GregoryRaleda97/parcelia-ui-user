@@ -1,0 +1,242 @@
+.img-log {
+    object-fit: fill;
+    border-radius: 15px 0px 0px 15px;
+    width: 100px;
+    height: 100px;
+}
+
+.link1 {
+    text-decoration: none;
+    color: black;
+}
+
+.b-name {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btncustom {
+    color: black;
+    width: 100%;
+    border-radius: 5%;
+}
+
+.p-regis {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.div-search {
+    width: 450px;
+}
+
+.support {
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+}
+
+.btncustm {
+    display: flex;
+    background: rgb(228, 74, 84);
+}
+
+.navlink {
+    display: flex;
+}
+
+.nav {
+    max-height: 100%;
+    height: 117px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    top: 0;
+    z-index: 99;
+    transition: 0.1s;
+    background: linear-gradient(transparent, rgb(39, 187, 224));
+    background-color: rgb(20, 135, 202);
+    justify-content: space-between;
+}
+
+.nav_logoImg {
+    object-fit: contain;
+    flex: 1;
+    width: 8%;
+    margin-right: 100px;
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    border-radius: 4px;
+}
+
+.select {
+    border: 0px;
+    outline: 0px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 20%;
+    margin-left: 10px;
+    color: gray;
+}
+
+.sidebar_search {
+    margin-top: 37px;
+    align-items: center;
+    height: 28px;
+    margin-left: 180px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.sidebar_searchContainer {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 120%;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.sidebar_searchContainer > .MuiSvgIcon-root {
+    color: gray;
+}
+
+.sidebar_searchContainer > input {
+    border: none;
+    outline-width: 0;
+}
+
+.cart {
+    width: 10%;
+    position: absolute;
+    top: 40px;
+    right: 295px;
+}
+
+.headerBlock__actions {
+    margin-top: 330px;
+    display: flex;
+    gap: 10px;
+    position: relative;
+    bottom: 70px;
+}
+
+.headerBlock__actions > button {
+    cursor: pointer;
+    border: none;
+    width: 460px;
+    padding-top: 50px;
+    padding-bottom: 12px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-weight: 600;
+    outline: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    border: none;
+    font-family: Arial;
+    font-weight: 700;
+    padding: 10px 30px;
+    font-size: 12px;
+    color: rgb(28, 144, 221);
+    background: white;
+    border-radius: 5px;
+    text-decoration: none;
+    position: relative;
+    top: 7.5px;
+    right: 170px;
+}
+
+.button1 {
+    border: none;
+    font-family: Arial;
+    font-weight: 700;
+    padding: 10px 30px;
+    font-size: 12px;
+    color: rgb(28, 144, 221);
+    background: white;
+    border-radius: 5px;
+    text-decoration: none;
+    position: relative;
+    bottom: 30.5px;
+    right: 37px;
+}
+
+.btn-login {
+    border: none;
+    font-family: Arial;
+    font-weight: 700;
+    padding: 10px 30px;
+    font-size: 12px;
+    color: white;
+    background: rgb(28, 144, 221);
+    border-radius: 5px;
+    text-decoration: none;
+    position: relative;
+    bottom: 30.5px;
+    right: 37px;
+}
+
+.button:hover {
+    background-color: whitesmoke;
+}
+
+.header_option {
+    display: flex;
+    color: white;
+    text-decoration: none;
+}
+
+.header_optionLineOne {
+    font-size: 18px;
+    text-decoration: none;
+    position: relative;
+    left: 954px;
+    bottom: 10px;
+}
+
+.item {
+    position: relative;
+    padding-top: 20px;
+    display: inline-block;
+}
+
+.text-row {
+    position: relative;
+    top: 10px;
+}
+
+.title > h3 {
+    color: rgb(28, 144, 221);
+    font-weight: 700;
+    top: 20px;
+}
+
+.link1 > p {
+    position: relative;
+    top: 20px;
+}
+
+.signup__divider {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 20px;
+}
+
+.signup__divider > hr {
+    width: 40%;
+    opacity: 0.3;
+    position: relative;
+    /* top: 20px; */
+}
+
+.signup__divider > span {
+    font-weight: 500;
+    color: #5c5e62;
+}

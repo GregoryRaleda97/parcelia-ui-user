@@ -1,0 +1,12 @@
+.parcel-row {
+    border-radius: 20px;
+    width: 100%;
+}
+
+.carouselParcel-row {
+    width: 100%;
+    padding: 30px;
+    position: relative;
+    bottom: 20px;
+    z-index: 1;
+}
