@@ -1,0 +1,72 @@
+.parcel-rows{
+    position: relative;
+    top: 500px;
+}
+
+.parcel-banner-first {
+    display: flex;
+}
+
+.parcel-first {
+    border-radius: 20px;
+    position: relative;
+    bottom: 620.5px;
+    left: 30px;
+    width: 46%;
+    z-index: 1;
+}
+
+.parcel-second {
+    border-radius: 20px;
+    position: relative;
+    bottom: 620.5px;
+    left: 68px;
+    width: 46%;
+    z-index: 1;
+}
+
+/* .parcel-third {
+    border-radius: 20px;
+    position: relative;
+    bottom: 620.5px;
+    left: 90px;
+    width: 30%;
+    z-index: 1;
+} */
+
+.card-parcel-image{
+    border-radius: 20px;
+}
+
+/* .parcel-banner-second {
+    display: flex;
+    position: relative;
+    top: 40px;
+} */
+
+.post:hover .post-s {
+    width: 100%;
+}
+.post img {
+    display: block;
+    width: 100%;
+}
+.post-s {
+    width: 0px;
+    height: 100%;
+    background: rgba(59, 59, 59, 0.71);
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: 1.2s ease;
+    border-radius: 20px;
+}
+.post-s > a {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-decoration: none;
+    white-space: nowrap;
+}

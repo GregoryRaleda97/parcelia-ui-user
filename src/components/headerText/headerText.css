@@ -1,0 +1,15 @@
+.header_bottomLinks {
+    display: flex;
+    gap: 15px;
+    text-decoration: none;
+}
+
+.header_bottomLinks > a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    left: 185px;
+    top: 5px;
+}

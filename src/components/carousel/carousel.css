@@ -1,0 +1,16 @@
+.carousel-Slide {
+    background-color: rgb(39, 187, 224);
+    margin-top: 117px;
+    width: 100%;
+    padding: 30px;
+    position: relative;
+    bottom: 20px;
+    z-index: 1;
+}
+
+.parcel-row {
+    margin-top: 0px;
+    max-width: 100%;
+    align-items: center;
+    border-radius: 30px;
+}
